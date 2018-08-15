@@ -7,8 +7,8 @@ import cucumber.api.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(
         features = "G:\\SeleniumProjects\\FreeCrmBDDFramework\\FreeCrmBDDFFramework\\src\\test\\java\\Features\\login.feature",
-        glue = {"stepDefinitions"}
-        //format = {"pretty", "html:test-outout"}
+        glue = {"stepDefinitions"},
+        format= {"pretty", "html:test-outout"}
 )
 public class TestRunner {
 

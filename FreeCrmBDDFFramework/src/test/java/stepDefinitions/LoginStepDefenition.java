@@ -47,7 +47,7 @@ public class LoginStepDefenition {
     public void user_is_on_home_page() {
     	String title = driver.getTitle();
     	System.out.println("Home page title ::"+title);
-    	Assert.assertEquals("CRMPRO", title);
+    	Assert.assertEquals("CRMPRO123", title);
     }
 
 }
