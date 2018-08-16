@@ -49,5 +49,11 @@ public class LoginStepDefenition {
     	System.out.println("Home page title ::"+title);
     	Assert.assertEquals("CRMPRO", title);
     }
+   
+   @Then("^browser is closed$")
+   public void browser_is_closed() {
+   	driver.close();
+   
+   }
 
 }
