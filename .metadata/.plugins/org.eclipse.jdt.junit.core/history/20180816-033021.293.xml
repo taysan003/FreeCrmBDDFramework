@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="FreeCrmBDDFFramework" tests="16" started="16" failures="0" errors="0" ignored="16">
+  <testsuite name="Runner.TestRunner" time="0.098">
+    <testsuite name="Feature: Free CRM Create Contacts" time="0.098">
+      <testsuite name="Scenario Outline: Free CRM create a new scenario" time="0.098">
+        <testsuite name="Examples:" time="0.098">
+          <testsuite name="| naveenk | test@123 | Tom | Peter | Manager |" time="0.0">
+            <testcase name="Given user is already on Login Page" classname="| naveenk | test@123 | Tom | Peter | Manager |" time="0.0" ignored="true"/>
+            <testcase name="When title of login page is Free CRM" classname="| naveenk | test@123 | Tom | Peter | Manager |" time="0.0" ignored="true"/>
+            <testcase name="Then user enters &quot;naveenk&quot; and &quot;test@123&quot;" classname="| naveenk | test@123 | Tom | Peter | Manager |" time="0.0" ignored="true"/>
+            <testcase name="Then user clicks on login button" classname="| naveenk | test@123 | Tom | Peter | Manager |" time="0.0" ignored="true"/>
+            <testcase name="Then user is on home page" classname="| naveenk | test@123 | Tom | Peter | Manager |" time="0.0" ignored="true"/>
+            <testcase name="Then user moves to new contact page" classname="| naveenk | test@123 | Tom | Peter | Manager |" time="0.0" ignored="true"/>
+            <testcase name="Then user enters contact ditails &quot;Tom&quot; and &quot;Peter&quot; and &quot;Manager&quot;" classname="| naveenk | test@123 | Tom | Peter | Manager |" time="0.0" ignored="true"/>
+            <testcase name="Then close the browser" classname="| naveenk | test@123 | Tom | Peter | Manager |" time="0.0" ignored="true"/>
+          </testsuite>
+          <testsuite name="| naveenk | test@123 | David | Dsoux | Director |" time="0.085">
+            <testcase name="Given user is already on Login Page" classname="| naveenk | test@123 | David | Dsoux | Director |" time="0.0" ignored="true"/>
+            <testcase name="When title of login page is Free CRM" classname="| naveenk | test@123 | David | Dsoux | Director |" time="0.0" ignored="true"/>
+            <testcase name="Then user enters &quot;naveenk&quot; and &quot;test@123&quot;" classname="| naveenk | test@123 | David | Dsoux | Director |" time="0.0" ignored="true"/>
+            <testcase name="Then user clicks on login button" classname="| naveenk | test@123 | David | Dsoux | Director |" time="0.0" ignored="true"/>
+            <testcase name="Then user is on home page" classname="| naveenk | test@123 | David | Dsoux | Director |" time="0.0" ignored="true"/>
+            <testcase name="Then user moves to new contact page" classname="| naveenk | test@123 | David | Dsoux | Director |" time="0.0" ignored="true"/>
+            <testcase name="Then user enters contact ditails &quot;David&quot; and &quot;Dsoux&quot; and &quot;Director&quot;" classname="| naveenk | test@123 | David | Dsoux | Director |" time="0.0" ignored="true"/>
+            <testcase name="Then close the browser" classname="| naveenk | test@123 | David | Dsoux | Director |" time="0.085" ignored="true"/>
+          </testsuite>
+        </testsuite>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>
