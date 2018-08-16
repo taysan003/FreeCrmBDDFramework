@@ -1,5 +1,6 @@
 Feature: Free CRM Login Feature
 
+@SmokeTest1
 Scenario: Free CRM Login Test Scenario
 Given user is already on Login Page
 When title of login page is Free CRM
