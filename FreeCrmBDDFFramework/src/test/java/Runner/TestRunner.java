@@ -10,8 +10,8 @@ import cucumber.api.CucumberOptions;
         glue = {"stepDefinitions"},
        format= {"pretty", "html:test-outout", "json:json_output/cucumber.json", "junit:junit_xml/cucumber.xml"},
        monochrome = true,
-       strict = true,
-       dryRun = false
+       strict = true, //it will check if any step is not defined in definition file
+       dryRun = true //to check the mapping is proper between feature file and step def file
 )
 public class TestRunner {
 

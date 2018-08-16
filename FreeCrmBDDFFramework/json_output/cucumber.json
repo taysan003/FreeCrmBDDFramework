@@ -12,8 +12,7 @@
         "steps": [
           {
             "result": {
-              "duration": 6492232290,
-              "status": "passed"
+              "status": "skipped"
             },
             "line": 5,
             "name": "user is already on Login Page",
@@ -24,8 +23,7 @@
           },
           {
             "result": {
-              "duration": 206076607,
-              "status": "passed"
+              "status": "skipped"
             },
             "line": 6,
             "name": "title of login page is Free CRM",
@@ -36,20 +34,28 @@
           },
           {
             "result": {
-              "duration": 244238020,
-              "status": "passed"
+              "status": "skipped"
             },
             "line": 7,
-            "name": "user enters username and user enters password",
+            "name": "user enters \"naveenk\" and \"test@123\"",
             "match": {
-              "location": "LoginStepDefenition.user_enters_username_and_user_enters_password()"
+              "arguments": [
+                {
+                  "val": "naveenk",
+                  "offset": 13
+                },
+                {
+                  "val": "test@123",
+                  "offset": 27
+                }
+              ],
+              "location": "LoginStepDefenition.user_enters_username_and_user_enters_password(String,String)"
             },
             "keyword": "Then "
           },
           {
             "result": {
-              "duration": 2093768370,
-              "status": "passed"
+              "status": "skipped"
             },
             "line": 8,
             "name": "user clicks on login button",
@@ -60,8 +66,7 @@
           },
           {
             "result": {
-              "duration": 16643174,
-              "status": "passed"
+              "status": "skipped"
             },
             "line": 9,
             "name": "user is on home page",

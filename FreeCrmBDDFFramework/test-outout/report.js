@@ -26,7 +26,7 @@ formatter.step({
 });
 formatter.step({
   "line": 7,
-  "name": "user enters username and user enters password",
+  "name": "user enters \"naveenk\" and \"test@123\"",
   "keyword": "Then "
 });
 formatter.step({
@@ -43,35 +43,40 @@ formatter.match({
   "location": "LoginStepDefenition.user_is_already_on_login_page()"
 });
 formatter.result({
-  "duration": 6492232290,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "LoginStepDefenition.title_of_login_page_is_Free_CRM()"
 });
 formatter.result({
-  "duration": 206076607,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
-  "location": "LoginStepDefenition.user_enters_username_and_user_enters_password()"
+  "arguments": [
+    {
+      "val": "naveenk",
+      "offset": 13
+    },
+    {
+      "val": "test@123",
+      "offset": 27
+    }
+  ],
+  "location": "LoginStepDefenition.user_enters_username_and_user_enters_password(String,String)"
 });
 formatter.result({
-  "duration": 244238020,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "LoginStepDefenition.user_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2093768370,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "LoginStepDefenition.user_is_on_home_page()"
 });
 formatter.result({
-  "duration": 16643174,
-  "status": "passed"
+  "status": "skipped"
 });
 });
