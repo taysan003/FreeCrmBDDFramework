@@ -8,7 +8,9 @@ import cucumber.api.CucumberOptions;
 @CucumberOptions(
         features = "G:\\SeleniumProjects\\FreeCrmBDDFramework\\FreeCrmBDDFFramework\\src\\test\\java\\Features\\login.feature",
         glue = {"stepDefinitions"},
-        format= {"pretty", "html:test-outout"}
+       format= {"pretty", "html:test-outout", "json:json_output/cucumber.json"},
+       monochrome = true,
+       dryRun = false
 )
 public class TestRunner {
 

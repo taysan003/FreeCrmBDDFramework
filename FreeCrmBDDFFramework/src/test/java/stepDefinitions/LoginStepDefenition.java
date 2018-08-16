@@ -43,11 +43,11 @@ public class LoginStepDefenition {
         js.executeScript("arguments[0].click();", loginBtn);
     }
 
-    @Then("^user is on home page$")
+   @Then("^user is on home page$")
     public void user_is_on_home_page() {
     	String title = driver.getTitle();
     	System.out.println("Home page title ::"+title);
-    	Assert.assertEquals("CRMPRO123", title);
+    	Assert.assertEquals("CRMPRO", title);
     }
 
 }
