@@ -10,7 +10,7 @@ Feature: Free CRM Login Feature
 #Then browser is closed
 
 
-#With Examples Keyword
+With Examples Keyword
 Scenario Outline: Free CRM Login Test Scenario
 
 Given user is already on Login Page
