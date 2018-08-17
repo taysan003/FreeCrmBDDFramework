@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="FreeCrmBDDFFramework" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="Runner.TestRunner" time="0.155">
+    <testsuite name="Feature: Free CRM app test" time="0.155">
+      <testsuite name="Scenario: Free CRM create deal test" time="0.155">
+        <testcase name="Given user is on deal page" classname="Scenario: Free CRM create deal test" time="0.0"/>
+        <testcase name="When user fills the deals form" classname="Scenario: Free CRM create deal test" time="0.0"/>
+        <testcase name="Then deals is created" classname="Scenario: Free CRM create deal test" time="0.155"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

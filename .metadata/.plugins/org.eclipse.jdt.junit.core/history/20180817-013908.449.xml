@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="FreeCrmBDDFFramework" tests="9" started="9" failures="0" errors="0" ignored="9">
+  <testsuite name="Runner.TestRunner" time="0.089">
+    <testsuite name="Feature: Test Tagged Hooks" time="0.089">
+      <testsuite name="Scenario: This is First test" time="0.0">
+        <testcase name="Given this is the first step" classname="Scenario: This is First test" time="0.0" ignored="true"/>
+        <testcase name="When this is the second step" classname="Scenario: This is First test" time="0.0" ignored="true"/>
+        <testcase name="Then this is the third step" classname="Scenario: This is First test" time="0.0" ignored="true"/>
+      </testsuite>
+      <testsuite name="Scenario: This is Second test" time="0.0">
+        <testcase name="Given this is the first step" classname="Scenario: This is Second test" time="0.0" ignored="true"/>
+        <testcase name="When this is the second step" classname="Scenario: This is Second test" time="0.0" ignored="true"/>
+        <testcase name="Then this is the third step" classname="Scenario: This is Second test" time="0.0" ignored="true"/>
+      </testsuite>
+      <testsuite name="Scenario: This is Third test" time="0.06">
+        <testcase name="Given this is the first step" classname="Scenario: This is Third test" time="0.0" ignored="true"/>
+        <testcase name="When this is the second step" classname="Scenario: This is Third test" time="0.0" ignored="true"/>
+        <testcase name="Then this is the third step" classname="Scenario: This is Third test" time="0.06" ignored="true"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>
