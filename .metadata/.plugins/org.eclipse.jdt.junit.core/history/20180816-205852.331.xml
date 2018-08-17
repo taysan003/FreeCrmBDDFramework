@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="FreeCrmBDDFFramework" tests="8" started="8" failures="2" errors="0" ignored="6">
+  <testsuite name="Runner.TestRunner" time="0.255">
+    <testsuite name="Feature: Deal data creation" time="0.255">
+      <testsuite name="Scenario: Free CRM create a new deal scenario" time="0.1" incomplete="true">
+        <failure>
+          <expected>#1 Free CRM for Any Business: Online Customer Relationship Software</expected>
+          <actual>#1 Free CRM software in the cloud for sales and service</actual>org.junit.ComparisonFailure: expected:&lt;#1 Free CRM [for Any Business: Online Customer Relationship Softwar]e&gt; but was:&lt;#1 Free CRM [software in the cloud for sales and servic]e&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:115)&#13;
+	at org.junit.Assert.assertEquals(Assert.java:144)&#13;
+	at stepDefinitions.DealsStepWithMapDefinition.title_of_login_page_is_free_CRM(DealsStepWithMapDefinition.java:34)&#13;
+	at ✽.When title of login page is Free CRM(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/dealsmap.feature:4)&#13;
+&#13;
+</failure>
+        <testcase name="Given user is already on Login Page" classname="Scenario: Free CRM create a new deal scenario" time="0.087"/>
+        <testcase name="When title of login page is Free CRM" classname="Scenario: Free CRM create a new deal scenario" time="0.013">
+          <failure>
+            <expected>#1 Free CRM for Any Business: Online Customer Relationship Software</expected>
+            <actual>#1 Free CRM software in the cloud for sales and service</actual>org.junit.ComparisonFailure: expected:&lt;#1 Free CRM [for Any Business: Online Customer Relationship Softwar]e&gt; but was:&lt;#1 Free CRM [software in the cloud for sales and servic]e&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:115)&#13;
+	at org.junit.Assert.assertEquals(Assert.java:144)&#13;
+	at stepDefinitions.DealsStepWithMapDefinition.title_of_login_page_is_free_CRM(DealsStepWithMapDefinition.java:34)&#13;
+	at ✽.When title of login page is Free CRM(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/dealsmap.feature:4)&#13;
+&#13;
+</failure>
+        </testcase>
+        <testcase name="Then user enters username and password" classname="Scenario: Free CRM create a new deal scenario" time="0.003" ignored="true"/>
+        <testcase name="Then user clicks on login button" classname="Scenario: Free CRM create a new deal scenario" time="0.002" ignored="true"/>
+        <testcase name="Then user is on home page" classname="Scenario: Free CRM create a new deal scenario" time="0.001" ignored="true"/>
+        <testcase name="Then user moves to new deal page" classname="Scenario: Free CRM create a new deal scenario" time="0.001" ignored="true"/>
+        <testcase name="Then user enters deal details" classname="Scenario: Free CRM create a new deal scenario" time="0.001" ignored="true"/>
+        <testcase name="Then close the browser" classname="Scenario: Free CRM create a new deal scenario" time="0.143" ignored="true"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>
