@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="FreeCrmBDDFFramework" tests="10" started="10" failures="0" errors="20" ignored="0">
+  <testsuite name="Runner.TestRunner" time="0.124">
+    <testsuite name="Feature: Free CRM application testing" time="0.124">
+      <testsuite name="Scenario: Login with correct username and corrcet password" time="0.002" incomplete="true">
+        <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinitions.TeggingStepDefinition.this_is_a_valid_login_test(TeggingStepDefinition.java:10)&#13;
+	at ✽.Given This is a valid login test(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/tagging.feature:7)&#13;
+&#13;
+</error>
+        <testcase name="Given This is a valid login test" classname="Scenario: Login with correct username and corrcet password" time="0.002">
+          <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinitions.TeggingStepDefinition.this_is_a_valid_login_test(TeggingStepDefinition.java:10)&#13;
+	at ✽.Given This is a valid login test(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/tagging.feature:7)&#13;
+&#13;
+</error>
+        </testcase>
+      </testsuite>
+      <testsuite name="Scenario: Login with incorrect username and corrcet password" time="0.0" incomplete="true">
+        <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinitions.TeggingStepDefinition.this_is_a_invalid_login_test(TeggingStepDefinition.java:16)&#13;
+	at ✽.Given This is a invalid login test(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/tagging.feature:11)&#13;
+&#13;
+</error>
+        <testcase name="Given This is a invalid login test" classname="Scenario: Login with incorrect username and corrcet password" time="0.0">
+          <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinitions.TeggingStepDefinition.this_is_a_invalid_login_test(TeggingStepDefinition.java:16)&#13;
+	at ✽.Given This is a invalid login test(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/tagging.feature:11)&#13;
+&#13;
+</error>
+        </testcase>
+      </testsuite>
+      <testsuite name="Scenario: Create a contact" time="0.0" incomplete="true">
+        <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinitions.TeggingStepDefinition.this_is_a_contact_test_case(TeggingStepDefinition.java:22)&#13;
+	at ✽.Given This is a contact test case(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/tagging.feature:15)&#13;
+&#13;
+</error>
+        <testcase name="Given This is a contact test case" classname="Scenario: Create a contact" time="0.0">
+          <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinitions.TeggingStepDefinition.this_is_a_contact_test_case(TeggingStepDefinition.java:22)&#13;
+	at ✽.Given This is a contact test case(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/tagging.feature:15)&#13;
+&#13;
+</error>
+        </testcase>
+      </testsuite>
+      <testsuite name="Scenario: Create a task" time="0.0" incomplete="true">
+        <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinitions.TeggingStepDefinition.this_is_a_task_test_case(TeggingStepDefinition.java:34)&#13;
+	at ✽.Given This is a task test case(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/tagging.feature:23)&#13;
+&#13;
+</error>
+        <testcase name="Given This is a task test case" classname="Scenario: Create a task" time="0.0">
+          <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinitions.TeggingStepDefinition.this_is_a_task_test_case(TeggingStepDefinition.java:34)&#13;
+	at ✽.Given This is a task test case(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/tagging.feature:23)&#13;
+&#13;
+</error>
+        </testcase>
+      </testsuite>
+      <testsuite name="Scenario: Verify a left panel links" time="0.0" incomplete="true">
+        <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinitions.TeggingStepDefinition.clicking_on_left_panel_links(TeggingStepDefinition.java:46)&#13;
+	at ✽.Given Clicking on left panel links(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/tagging.feature:31)&#13;
+&#13;
+</error>
+        <testcase name="Given Clicking on left panel links" classname="Scenario: Verify a left panel links" time="0.0">
+          <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinitions.TeggingStepDefinition.clicking_on_left_panel_links(TeggingStepDefinition.java:46)&#13;
+	at ✽.Given Clicking on left panel links(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/tagging.feature:31)&#13;
+&#13;
+</error>
+        </testcase>
+      </testsuite>
+      <testsuite name="Scenario: Search a contact" time="0.0" incomplete="true">
+        <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinitions.TeggingStepDefinition.this_is_a_search_contact_test(TeggingStepDefinition.java:58)&#13;
+	at ✽.Given This is a search contact test(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/tagging.feature:39)&#13;
+&#13;
+</error>
+        <testcase name="Given This is a search contact test" classname="Scenario: Search a contact" time="0.0">
+          <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinitions.TeggingStepDefinition.this_is_a_search_contact_test(TeggingStepDefinition.java:58)&#13;
+	at ✽.Given This is a search contact test(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/tagging.feature:39)&#13;
+&#13;
+</error>
+        </testcase>
+      </testsuite>
+      <testsuite name="Scenario: Search a task" time="0.0" incomplete="true">
+        <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinitions.TeggingStepDefinition.this_is_a_search_task_test(TeggingStepDefinition.java:70)&#13;
+	at ✽.Given This is a search task test(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/tagging.feature:47)&#13;
+&#13;
+</error>
+        <testcase name="Given This is a search task test" classname="Scenario: Search a task" time="0.0">
+          <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinitions.TeggingStepDefinition.this_is_a_search_task_test(TeggingStepDefinition.java:70)&#13;
+	at ✽.Given This is a search task test(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/tagging.feature:47)&#13;
+&#13;
+</error>
+        </testcase>
+      </testsuite>
+      <testsuite name="Scenario: Search a call" time="0.0" incomplete="true">
+        <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinitions.TeggingStepDefinition.this_is_a_search_call_test(TeggingStepDefinition.java:76)&#13;
+	at ✽.Given This is a search call test(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/tagging.feature:51)&#13;
+&#13;
+</error>
+        <testcase name="Given This is a search call test" classname="Scenario: Search a call" time="0.0">
+          <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinitions.TeggingStepDefinition.this_is_a_search_call_test(TeggingStepDefinition.java:76)&#13;
+	at ✽.Given This is a search call test(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/tagging.feature:51)&#13;
+&#13;
+</error>
+        </testcase>
+      </testsuite>
+      <testsuite name="Scenario: Search a docs" time="0.0" incomplete="true">
+        <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinitions.TeggingStepDefinition.this_is_a_search_docs_test(TeggingStepDefinition.java:88)&#13;
+	at ✽.Given This is a search docs test(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/tagging.feature:59)&#13;
+&#13;
+</error>
+        <testcase name="Given This is a search docs test" classname="Scenario: Search a docs" time="0.0">
+          <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinitions.TeggingStepDefinition.this_is_a_search_docs_test(TeggingStepDefinition.java:88)&#13;
+	at ✽.Given This is a search docs test(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/tagging.feature:59)&#13;
+&#13;
+</error>
+        </testcase>
+      </testsuite>
+      <testsuite name="Scenario: Search a forms" time="0.0" incomplete="true">
+        <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinitions.TeggingStepDefinition.this_is_a_search_forms_test(TeggingStepDefinition.java:94)&#13;
+	at ✽.Given This is a search forms test(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/tagging.feature:63)&#13;
+&#13;
+</error>
+        <testcase name="Given This is a search forms test" classname="Scenario: Search a forms" time="0.0">
+          <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at stepDefinitions.TeggingStepDefinition.this_is_a_search_forms_test(TeggingStepDefinition.java:94)&#13;
+	at ✽.Given This is a search forms test(G:/SeleniumProjects/FreeCrmBDDFramework/FreeCrmBDDFFramework/src/test/java/Features/tagging.feature:63)&#13;
+&#13;
+</error>
+        </testcase>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

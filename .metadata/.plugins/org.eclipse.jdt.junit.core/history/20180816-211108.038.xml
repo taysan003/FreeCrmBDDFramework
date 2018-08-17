@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="FreeCrmBDDFFramework" tests="8" started="8" failures="0" errors="0" ignored="0">
+  <testsuite name="Runner.TestRunner" time="7.847">
+    <testsuite name="Feature: Deal data creation" time="7.847">
+      <testsuite name="Scenario: Free CRM create a new deal scenario" time="7.847">
+        <testcase name="Given user is already on Login Page" classname="Scenario: Free CRM create a new deal scenario" time="0.021"/>
+        <testcase name="When title of login page is Free CRM" classname="Scenario: Free CRM create a new deal scenario" time="0.202"/>
+        <testcase name="Then user enters username and password" classname="Scenario: Free CRM create a new deal scenario" time="1.632"/>
+        <testcase name="Then user clicks on login button" classname="Scenario: Free CRM create a new deal scenario" time="0.009"/>
+        <testcase name="Then user is on home page" classname="Scenario: Free CRM create a new deal scenario" time="0.739"/>
+        <testcase name="Then user moves to new deal page" classname="Scenario: Free CRM create a new deal scenario" time="4.484"/>
+        <testcase name="Then user enters deal details" classname="Scenario: Free CRM create a new deal scenario" time="0.669"/>
+        <testcase name="Then close the browser" classname="Scenario: Free CRM create a new deal scenario" time="0.091"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

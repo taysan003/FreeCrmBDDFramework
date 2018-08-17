@@ -1,0 +1,25 @@
+Feature: Free CRM application testing
+
+Scenario: Login with correct username and corrcet password
+Given This is a valid login test
+
+Scenario: Login with incorrect username and corrcet password
+Given This is a invalid login test
+
+Scenario: Create a contact
+Given This is a contact test case
+
+Scenario: Create a deal
+Given This is a deal test case
+
+Scenario: Create a task
+Given This is a task test case
+
+Scenario: Create a case
+Given This is a case test case
+
+Scenario: Verify a left panel links
+Given Clicking on left panel links
+
+Scenario: Search a deal
+Given This is a search deal test

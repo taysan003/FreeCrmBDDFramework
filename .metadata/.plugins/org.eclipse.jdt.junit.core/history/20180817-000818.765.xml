@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="FreeCrmBDDFFramework" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="Runner.TestRunner" time="0.151">
+    <testsuite name="Feature: Free CRM application testing" time="0.151">
+      <testsuite name="Scenario: Login with correct username and corrcet password" time="0.003">
+        <testcase name="Given This is a valid login test" classname="Scenario: Login with correct username and corrcet password" time="0.003"/>
+      </testsuite>
+      <testsuite name="Scenario: Search a call" time="0.0">
+        <testcase name="Given This is a search call test" classname="Scenario: Search a call" time="0.0"/>
+      </testsuite>
+      <testsuite name="Scenario: Search a docs" time="0.117">
+        <testcase name="Given This is a search docs test" classname="Scenario: Search a docs" time="0.117"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>
