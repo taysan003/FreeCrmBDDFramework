@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="FreeCrmBDDFFramework" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="Runner.TestRunner" time="0.104">
-    <testsuite name="Feature: Free CRM application testing" time="0.104">
-      <testsuite name="Scenario: Browser closed" time="0.104">
-        <testcase name="Given This is a close browser test" classname="Scenario: Browser closed" time="0.104"/>
-      </testsuite>
-    </testsuite>
-  </testsuite>
-</testrun>

@@ -1,7 +1,0 @@
-Feature: Free CRM app test
-
-Scenario: Free CRM create deal test
-
-Given user is on deal page
-When user fills the deals form
-Then deals is created

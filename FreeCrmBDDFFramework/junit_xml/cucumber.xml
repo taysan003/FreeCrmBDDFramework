@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="0.085661">
-<testcase classname="Test Tagged Hooks" name="This is First test" time="0.084287">
-<system-out><![CDATA[Given this is the first step................................................passed
-When this is the second step................................................passed
-Then this is the third step.................................................passed
-]]></system-out>
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="3" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="0">
+<testcase classname="Test Tagged Hooks" name="This is First test" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given this is the first step................................................undefined
+When this is the second step................................................undefined
+Then this is the third step.................................................undefined
+]]></failure>
 </testcase>
-<testcase classname="Test Tagged Hooks" name="This is Second test" time="0.000805">
-<system-out><![CDATA[Given this is the first step................................................passed
-When this is the second step................................................passed
-Then this is the third step.................................................passed
-]]></system-out>
+<testcase classname="Test Tagged Hooks" name="This is Second test" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given this is the first step................................................undefined
+When this is the second step................................................undefined
+Then this is the third step.................................................undefined
+]]></failure>
 </testcase>
-<testcase classname="Test Tagged Hooks" name="This is Third test" time="0.000569">
-<system-out><![CDATA[Given this is the first step................................................passed
-When this is the second step................................................passed
-Then this is the third step.................................................passed
-]]></system-out>
+<testcase classname="Test Tagged Hooks" name="This is Third test" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given this is the first step................................................undefined
+When this is the second step................................................undefined
+Then this is the third step.................................................undefined
+]]></failure>
 </testcase>
 </testsuite>

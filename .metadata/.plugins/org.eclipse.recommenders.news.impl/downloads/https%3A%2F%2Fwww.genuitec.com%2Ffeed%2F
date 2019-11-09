@@ -12,295 +12,207 @@
 	<atom:link href="https://www.genuitec.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.genuitec.com</link>
 	<description>The Cloud Control Company</description>
-	<lastBuildDate>Thu, 16 Aug 2018 19:24:38 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 08 Nov 2019 14:08:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.2</generator>
+	
 	<item>
-		<title>A Day with Dani: Python Support at Its Best</title>
-		<link>https://www.genuitec.com/python-support-best/</link>
-		<pubDate>Tue, 14 Aug 2018 15:58:42 +0000</pubDate>
-		<dc:creator><![CDATA[Dani Faris]]></dc:creator>
-				<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[Python development]]></category>
-		<category><![CDATA[Python development in Eclipse]]></category>
-		<category><![CDATA[Python development with CodeMix]]></category>
-		<category><![CDATA[support for Python development]]></category>
+		<title>Creating a Django Authentication App</title>
+		<link>https://www.genuitec.com/creating-a-django-authentication-app/</link>
+		<pubDate>Thu, 07 Nov 2019 18:02:36 +0000</pubDate>
+		<dc:creator><![CDATA[dunebook7]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
 
-		<guid isPermaLink="false">https://www.genuitec.com/?p=594485</guid>
-		<description><![CDATA[<p>Python support provided by CodeMix has proven to make a world of difference to me. In this blog, I will highlight some of my favorite aspects.Intelligent Code Completion and MoreCodeMix IntelliSense tools are amazing, hands down. As shown below you can see an outside Python library import in another Python program I created that analyzes [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/python-support-best/">A Day with Dani: Python Support at Its Best</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=628698</guid>
+		<description><![CDATA[<p>Learn how to use the Django authentication system to manage users and build an app from scratch to authenticate them with a username and password - all using CodeMix.</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/creating-a-django-authentication-app/">Creating a Django Authentication App</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
 		<item>
-		<title>MyEclipse 2018: Java 10, Java EE 8, Code Mining &#038; More!</title>
-		<link>https://www.genuitec.com/myeclipse-2018-java-10-java-ee-8-code-mining/</link>
-		<pubDate>Mon, 06 Aug 2018 22:12:56 +0000</pubDate>
+		<title>CodeMix 2019.10.29 &#8211; You Code, We Build</title>
+		<link>https://www.genuitec.com/codemix-2019-10-29-you-code-we-build/</link>
+		<pubDate>Tue, 29 Oct 2019 20:36:14 +0000</pubDate>
 		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
-				<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[codemix]]></category>
-		<category><![CDATA[eclipse extensions]]></category>
-		<category><![CDATA[eclipse plugins]]></category>
-		<category><![CDATA[myeclipse 2018]]></category>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[In Product]]></category>
 
-		<guid isPermaLink="false">https://www.genuitec.com/?p=594999</guid>
-		<description><![CDATA[<p>MyEclipse 2018 is finally here, and as you will see and experience, this release has been well worth the wait. We&#8217;ve got Java 10 support, Java EE 8 across our enterprise wizards, and core improvements from building on Eclipse Photon. New features include code mining for efficient source analysis, an enhanced startup experience, a new [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/myeclipse-2018-java-10-java-ee-8-code-mining/">MyEclipse 2018: Java 10, Java EE 8, Code Mining &#038; More!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=629280</guid>
+		<description><![CDATA[<p>In this release we’re introducing a quick access control panel for Angular, a vastly improved validation and build pipeline, and we’ve made loads of reliability and stability fixes to the product, in response to your feedback. Core changes made in this version improve the efficiency of communication between CodeMix and the underlying Code OSS engine, resulting in a smoother dev experience.</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/codemix-2019-10-29-you-code-we-build/">CodeMix 2019.10.29 &#8211; You Code, We Build</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
 		<item>
-		<title>Vue Example: Creating a TODO App using Vue.js 2, Vuex and CodeMix</title>
-		<link>https://www.genuitec.com/vue-example-creating-todo-app/</link>
-		<pubDate>Wed, 01 Aug 2018 15:43:02 +0000</pubDate>
-		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
-				<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[todo app]]></category>
-		<category><![CDATA[todo list app]]></category>
-		<category><![CDATA[vue]]></category>
-		<category><![CDATA[vue apps]]></category>
-		<category><![CDATA[vue.js 2]]></category>
-		<category><![CDATA[vuex]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=594703</guid>
-		<description><![CDATA[<p>Looking for an efficient way to create web apps? Look no further—CodeMix is here to give you an entirely new experience. The following video shows you how to create a Vue example app, created in Eclipse powered up by CodeMix. CodeMix is an Eclipse plugin that unlocks a wide array of technologies from VS Code and [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/vue-example-creating-todo-app/">Vue Example: Creating a TODO App using Vue.js 2, Vuex and CodeMix</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
-		<item>
-		<title>A Day with Dani: Getting Started with Python and CodeMix</title>
-		<link>https://www.genuitec.com/a-day-with-dani-getting-started-with-python-and-codemix/</link>
-		<pubDate>Thu, 26 Jul 2018 15:33:33 +0000</pubDate>
-		<dc:creator><![CDATA[Dani Faris]]></dc:creator>
-				<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[Python]]></category>
-		<category><![CDATA[Python development]]></category>
-		<category><![CDATA[Python development in Eclipse]]></category>
-		<category><![CDATA[Python development with CodeMix]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=594203</guid>
-		<description><![CDATA[<p>Like I mentioned in my last blog, CodeMix is a plugin I use that adds a ton of powerful tools and capabilities to my Eclipse environment. After working without it and seeing how much better my development experience is with it, I don’t think I’ll ever go back to the old Eclipse. Why? I’ve been [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/a-day-with-dani-getting-started-with-python-and-codemix/">A Day with Dani: Getting Started with Python and CodeMix</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
-		<item>
-		<title>A Day with Dani: Eclipse Plugin for Awesome Workspace Customization</title>
-		<link>https://www.genuitec.com/a-day-with-dani-eclipse-plugin-for-awesome-workspace-customization/</link>
-		<pubDate>Tue, 17 Jul 2018 21:04:46 +0000</pubDate>
-		<dc:creator><![CDATA[Dani Faris]]></dc:creator>
+		<title>React Native Authentication with Facebook</title>
+		<link>https://www.genuitec.com/react-native-authentication-with-facebook/</link>
+		<pubDate>Thu, 26 Sep 2019 20:05:49 +0000</pubDate>
+		<dc:creator><![CDATA[dunebook7]]></dc:creator>
 				<category><![CDATA[Genuitec]]></category>
 		<category><![CDATA[codemix]]></category>
-		<category><![CDATA[DevStyle]]></category>
-		<category><![CDATA[eclipse plugins]]></category>
-		<category><![CDATA[navigation]]></category>
-		<category><![CDATA[theming]]></category>
+		<category><![CDATA[react native]]></category>
 
-		<guid isPermaLink="false">https://www.genuitec.com/?p=593215</guid>
-		<description><![CDATA[<p>The post <a rel="nofollow" href="https://www.genuitec.com/a-day-with-dani-eclipse-plugin-for-awesome-workspace-customization/">A Day with Dani: Eclipse Plugin for Awesome Workspace Customization</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=623558</guid>
+		<description><![CDATA[<p>Learn how to create a simple React Native app that uses Facebook for authentication. We use CodeMix for development and the Expo toolchain to make this possible without needing XCode or Android Studio. Check out our newest Blog and see how it's done!</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/react-native-authentication-with-facebook/">React Native Authentication with Facebook</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
 		<item>
-		<title>Angular 5, Firebase, and Angular Universal: Creating a Blog – Part 2</title>
-		<link>https://www.genuitec.com/angular-5-firebase-angular-universal-creating-blog-part-2/</link>
-		<pubDate>Thu, 12 Jul 2018 13:13:42 +0000</pubDate>
+		<title>CodeMix 2019.9.19 &#8211; It&#8217;s Go Time!</title>
+		<link>https://www.genuitec.com/codemix-2019-9-19/</link>
+		<pubDate>Thu, 19 Sep 2019 16:01:24 +0000</pubDate>
+		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[codemix]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=625180</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="https://www.genuitec.com/codemix-2019-9-19/">CodeMix 2019.9.19 &#8211; It&#8217;s Go Time!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>CodeMix 2019.8.21 Performance Update</title>
+		<link>https://www.genuitec.com/codemix-2019-8-21-performance-update/</link>
+		<pubDate>Fri, 23 Aug 2019 13:13:46 +0000</pubDate>
+		<dc:creator><![CDATA[timwebb]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[In Product]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=621293</guid>
+		<description><![CDATA[<p>The CodeMix 2019.8.21 release included a major update on the performance and CPU utilization during development. As reported previously, we have been working through some lingering CPU consumption impacting a subset of our users. We are happy to report strong improvements in this release.</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/codemix-2019-8-21-performance-update/">CodeMix 2019.8.21 Performance Update</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>CodeMix 2019.8.21 is Here — Bringing Flexibility and Speed!</title>
+		<link>https://www.genuitec.com/codemix-2019-8-21-is-here/</link>
+		<pubDate>Wed, 21 Aug 2019 20:55:58 +0000</pubDate>
+		<dc:creator><![CDATA[timwebb]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=621279</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="https://www.genuitec.com/codemix-2019-8-21-is-here/">CodeMix 2019.8.21 is Here — Bringing Flexibility and Speed!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>Upload files using Vue and Firebase</title>
+		<link>https://www.genuitec.com/upload-files-using-vue-and-firebase/</link>
+		<pubDate>Tue, 13 Aug 2019 17:57:54 +0000</pubDate>
 		<dc:creator><![CDATA[dunebook7]]></dc:creator>
-				<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[angular 5]]></category>
-		<category><![CDATA[Angular Universal]]></category>
-		<category><![CDATA[creating a blog]]></category>
+				<category><![CDATA[Genuitec]]></category>
 		<category><![CDATA[Firebase]]></category>
+		<category><![CDATA[vue]]></category>
 
-		<guid isPermaLink="false">https://www.genuitec.com/?p=558882</guid>
-		<description><![CDATA[<p>We will continue from where we left off in the first article. In this part of the article, we will add the markdown editor for authoring posts on our blog, and we will set up Firebase for authentication and persisting data to remote storage. Let’s get started!Starting a New Cloud Firestore ProjectOpen the Firebase console [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/angular-5-firebase-angular-universal-creating-blog-part-2/">Angular 5, Firebase, and Angular Universal: Creating a Blog – Part 2</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=620223</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="https://www.genuitec.com/upload-files-using-vue-and-firebase/">Upload files using Vue and Firebase</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
 		<item>
-		<title>A Day with Dani: Getting Started Tips for New Developers</title>
-		<link>https://www.genuitec.com/a-day-with-dani-getting-started-tips-for-new-developers/</link>
-		<pubDate>Fri, 06 Jul 2018 19:06:02 +0000</pubDate>
-		<dc:creator><![CDATA[Dani Faris]]></dc:creator>
-				<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[codemix]]></category>
-		<category><![CDATA[developer tips]]></category>
-		<category><![CDATA[DevStyle]]></category>
-		<category><![CDATA[programming tips]]></category>
-		<category><![CDATA[tips for developers]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=592835</guid>
-		<description><![CDATA[<p>I do much more than tweet things and write blogs for Genuitec. Right now, I am diving into Python and using CodeMix, while concurrently taking a crash course in Java at school. I am also exploring DevStyle, which allows me to personalize my development workspace however I want! Sweet! At Genuitec, I am fortunate enough [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/a-day-with-dani-getting-started-tips-for-new-developers/">A Day with Dani: Getting Started Tips for New Developers</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
-		<item>
-		<title>Exciting News about CodeMix</title>
-		<link>https://www.genuitec.com/exciting-news-about-codemix/</link>
-		<pubDate>Wed, 27 Jun 2018 18:48:39 +0000</pubDate>
-		<dc:creator><![CDATA[timwebb]]></dc:creator>
-				<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
+		<title>Ingenuity + Awesome Customers = Optimal CodeMix Performance</title>
+		<link>https://www.genuitec.com/optimal-codemix-performance/</link>
+		<pubDate>Thu, 01 Aug 2019 15:03:14 +0000</pubDate>
+		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[In Product]]></category>
 		<category><![CDATA[Webclipse]]></category>
 		<category><![CDATA[codemix]]></category>
 		<category><![CDATA[codemix release]]></category>
-		<category><![CDATA[sneak peek release]]></category>
+		<category><![CDATA[software release]]></category>
 
-		<guid isPermaLink="false">https://www.genuitec.com/?p=592037</guid>
-		<description><![CDATA[<p>We are in the home stretch of the CodeMix technical preview! CodeMix 2.0 is shaping up nicely and will be available in late July 2018. It&#8217;s packed full of new features like integrated TypeScript transpilation, a more responsive Terminal, a new version of Angular IDE built on top of CodeMix 2.0, and so much more! [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/exciting-news-about-codemix/">Exciting News about CodeMix</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=619206</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="https://www.genuitec.com/optimal-codemix-performance/">Ingenuity + Awesome Customers = Optimal CodeMix Performance</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
 		<item>
-		<title>A Day with Dani: Digging in for Some Coding</title>
-		<link>https://www.genuitec.com/digging-in-coding/</link>
-		<pubDate>Thu, 21 Jun 2018 15:30:22 +0000</pubDate>
-		<dc:creator><![CDATA[Dani Faris]]></dc:creator>
-				<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[codemix]]></category>
-		<category><![CDATA[DevStyle]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=591533</guid>
-		<description><![CDATA[<p>&#8220;Become a programmer!&#8221; &#8211; this has been my dream ever since I realized the pivotal role developing has in creating new technologies that could change the world and positively impact those around me. My name is Danielle and I am the summer intern at Genuitec! I am going on to my fourth week here and [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/digging-in-coding/">A Day with Dani: Digging in for Some Coding</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
-		<item>
-		<title>Angular Elements Made Simple with CodeMix</title>
-		<link>https://www.genuitec.com/angular-elements-made-simple-with-codemix/</link>
-		<pubDate>Thu, 31 May 2018 14:58:15 +0000</pubDate>
+		<title>Angular Library Tutorial</title>
+		<link>https://www.genuitec.com/angular-library-tutorial/</link>
+		<pubDate>Tue, 30 Jul 2019 15:14:03 +0000</pubDate>
 		<dc:creator><![CDATA[dunebook7]]></dc:creator>
-				<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[angular elements]]></category>
+				<category><![CDATA[Genuitec]]></category>
 
-		<guid isPermaLink="false">https://www.genuitec.com/?p=557676</guid>
-		<description><![CDATA[<p>Angular has been one of the best front-end JavaScript frameworks for some time now, and one of the many reasons is their continued effort to bring to developers new and improved ways to get the job done. One such effort is Angular Elements, which were introduced in Angular v6. In a nutshell, they convert components [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/angular-elements-made-simple-with-codemix/">Angular Elements Made Simple with CodeMix</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=619045</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="https://www.genuitec.com/angular-library-tutorial/">Angular Library Tutorial</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
 		<item>
-		<title>React Tutorial: Create and Debug an App in Eclipse with CodeMix</title>
-		<link>https://www.genuitec.com/react-tutorial-getting-started/</link>
-		<pubDate>Thu, 24 May 2018 15:14:43 +0000</pubDate>
-		<dc:creator><![CDATA[eligiom]]></dc:creator>
-				<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[React in Eclipse]]></category>
+		<title>Build a simple Cryptocurrency App using Angular 8</title>
+		<link>https://www.genuitec.com/build-a-simple-cryptocurrency-app-using-angular-8/</link>
+		<pubDate>Tue, 23 Jul 2019 20:35:44 +0000</pubDate>
+		<dc:creator><![CDATA[dunebook7]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[How-to's]]></category>
+		<category><![CDATA[Angular]]></category>
+		<category><![CDATA[angular ide]]></category>
 
-		<guid isPermaLink="false">https://www.genuitec.com/?p=588128</guid>
-		<description><![CDATA[<p>Making React run properly in Eclipse can be a really big headache…or an amazingly cool experience with CodeMix! CodeMix integrates the best of the VS Code world into Eclipse, such as support to create and debug React applications. Follow this React tutorial to quickly create and debug an app in Eclipse with CodeMix:Create Your App Make [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/react-tutorial-getting-started/">React Tutorial: Create and Debug an App in Eclipse with CodeMix</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=618081</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="https://www.genuitec.com/build-a-simple-cryptocurrency-app-using-angular-8/">Build a simple Cryptocurrency App using Angular 8</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
 		<item>
-		<title>PHP Development in Eclipse Has Never been Easier!</title>
-		<link>https://www.genuitec.com/php-development-in-eclipse-has-never-been-easier/</link>
-		<pubDate>Thu, 17 May 2018 15:18:14 +0000</pubDate>
-		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
+		<title>CodeMix Fun Friday Links</title>
+		<link>https://www.genuitec.com/codemix-fun-friday-links-1/</link>
+		<pubDate>Fri, 12 Jul 2019 19:00:19 +0000</pubDate>
+		<dc:creator><![CDATA[Mauricio Valenzuela]]></dc:creator>
 				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Fun/Funny]]></category>
 		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[php development]]></category>
-		<category><![CDATA[php development in eclipse]]></category>
-		<category><![CDATA[php extensions pack]]></category>
+		<category><![CDATA[codemix]]></category>
 
-		<guid isPermaLink="false">https://www.genuitec.com/?p=585242</guid>
-		<description><![CDATA[<p>Great news for you, PHP developer: your coding experience in Eclipse just got better thanks to CodeMix! It’s an Eclipse plugin that gives you access to a whole array of technologies from VS Code and add-on extensions built for Code OSS.How does CodeMix handle PHP support? Directly from Code OSS! There is also extra functionality [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/php-development-in-eclipse-has-never-been-easier/">PHP Development in Eclipse Has Never been Easier!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=615134</guid>
+		<description><![CDATA[<p>Hi folks, Welcome to CodeMix Fun Friday Links, where you can find a lot of interesting code Developers are having fun with, we wanted to check out some of those projects and see them working using our latest CodeMix release. Here are 5 examples of things we found interesting and wanted to share them, don&#8217;t [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/codemix-fun-friday-links-1/">CodeMix Fun Friday Links</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
 		<item>
-		<title>CodeMix &#8211; Technical Preview Now Available</title>
-		<link>https://www.genuitec.com/codemix-technical-preview/</link>
-		<pubDate>Tue, 03 Apr 2018 16:49:09 +0000</pubDate>
+		<title>Beginner&#8217;s Guide to Vue Modals</title>
+		<link>https://www.genuitec.com/beginners-guide-to-vue-modals/</link>
+		<pubDate>Fri, 05 Jul 2019 15:02:57 +0000</pubDate>
+		<dc:creator><![CDATA[dunebook7]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=616831</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="https://www.genuitec.com/beginners-guide-to-vue-modals/">Beginner&#8217;s Guide to Vue Modals</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>Stop Slow Eclipse and MyEclipse Startups on Windows 10</title>
+		<link>https://www.genuitec.com/stop-slow-eclipse-myeclipse-startups/</link>
+		<pubDate>Tue, 25 Jun 2019 23:15:34 +0000</pubDate>
+		<dc:creator><![CDATA[Mauricio Valenzuela]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=616624</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="https://www.genuitec.com/stop-slow-eclipse-myeclipse-startups/">Stop Slow Eclipse and MyEclipse Startups on Windows 10</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>Big Release, Big Thank You!</title>
+		<link>https://www.genuitec.com/big-release-big-thank-you/</link>
+		<pubDate>Wed, 19 Jun 2019 19:52:03 +0000</pubDate>
+		<dc:creator><![CDATA[Rocio Trujillo]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Genuitec]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=616355</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="https://www.genuitec.com/big-release-big-thank-you/">Big Release, Big Thank You!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>CodeMix 2019 Summer Refresh</title>
+		<link>https://www.genuitec.com/codemix-2019-summer-refresh/</link>
+		<pubDate>Tue, 11 Jun 2019 17:17:54 +0000</pubDate>
 		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
 				<category><![CDATA[Eclipse]]></category>
 		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
 		<category><![CDATA[Programming Tips]]></category>
 		<category><![CDATA[Webclipse]]></category>
 		<category><![CDATA[codemix]]></category>
 		<category><![CDATA[codemix release]]></category>
-		<category><![CDATA[sneak peek release]]></category>
+		<category><![CDATA[software release]]></category>
 
-		<guid isPermaLink="false">https://www.genuitec.com/?p=577714</guid>
-		<description><![CDATA[<p>Today, we’ve shipped to the the Eclipse community our technical preview of CodeMix. What is CodeMix, how do you install it, what makes it so cool? Read on for the details.What is CodeMix?CodeMix is a technology that allows developers to take advantage of the wide array of tooling, language, and framework support that is available with [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/codemix-technical-preview/">CodeMix &#8211; Technical Preview Now Available</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
-		<item>
-		<title>MyEclipse 2018 &#8211; Where Art Thou?</title>
-		<link>https://www.genuitec.com/myeclipse-2018-art-thou/</link>
-		<pubDate>Thu, 15 Mar 2018 13:37:06 +0000</pubDate>
-		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
-				<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[codemix]]></category>
-		<category><![CDATA[eclipse extensions]]></category>
-		<category><![CDATA[eclipse plugins]]></category>
-		<category><![CDATA[myeclipse 2018]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=562545</guid>
-		<description><![CDATA[<p>MyEclipse 2017 was first released in January 2017, and its most recent release, 2017 CI 10, was in December 2017. We will probably have a couple additional 2017 releases to round off that stream as well … so where’s MyEclipse 2018?The short answer &#8211; MyEclipse 2018 is coming in July, with one game-changing addition, CodeMix! [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/myeclipse-2018-art-thou/">MyEclipse 2018 &#8211; Where Art Thou?</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
-		<item>
-		<title>CodeMix &#8211; A Genesis</title>
-		<link>https://www.genuitec.com/codemix-a-genesis/</link>
-		<pubDate>Thu, 01 Mar 2018 15:57:31 +0000</pubDate>
-		<dc:creator><![CDATA[timwebb]]></dc:creator>
-				<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[codemix]]></category>
-		<category><![CDATA[VS code]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=559248</guid>
-		<description><![CDATA[<p>What if we could give Eclipse developers access to the rich catalog of VS Code extensions and advanced development that Code offers? And that’s when CodeMix was born. By providing VS Code smarts inside Eclipse, we no longer have to play catch-up, and our customers can realize the benefits and combined effect Code &#038; Eclipse provide with all the great advances in the technology world.</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/codemix-a-genesis/">CodeMix &#8211; A Genesis</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=615548</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="https://www.genuitec.com/codemix-2019-summer-refresh/">CodeMix 2019 Summer Refresh</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
 	</channel>
@@ -309,9 +221,7 @@
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-Page Caching using disk: enhanced (SSL caching disabled) 
 Content Delivery Network via resources.cloud.genuitec.com
-Database Caching 144/156 queries in 0.030 seconds using disk
 
-Served from: www.genuitec.com @ 2018-08-16 20:06:47 by W3 Total Cache
+Served from: www.genuitec.com @ 2019-11-08 09:37:57 by W3 Total Cache
 -->

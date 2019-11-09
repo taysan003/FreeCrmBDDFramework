@@ -44,6 +44,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="G:\SeleniumProjects\CucumberPOM"/>
 			<item value="G:\SeleniumProjects\FreeCrmBDDFramework"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -57,12 +58,21 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="DockerProject.DockerProject"/>
+			<item value="FreeCrmBDDFFramework_2.FreeCrmBDDFFramework_2"/>
+			<item value="CucumberPOM.CucumberPOM"/>
 			<item value="FreeCrmBDDFFramework.FreeCrmBDDFFramework"/>
 		</list>
 		<list key="groupId">
+			<item value="DockerProject"/>
+			<item value="FreeCrmBDDFFramework_2"/>
+			<item value="CucumberPOM"/>
 			<item value="FreeCrmBDDFFramework"/>
 		</list>
 		<list key="artifactId">
+			<item value="DockerProject"/>
+			<item value="FreeCrmBDDFFramework_2"/>
+			<item value="CucumberPOM"/>
 			<item value="FreeCrmBDDFFramework"/>
 		</list>
 		<list key="projectNameTemplate">

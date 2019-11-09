@@ -1,7 +1,0 @@
-Feature: Free CRM application testing
-
-Scenario: Login with correct username and corrcet password
-Given This is a valid login test
-
-Scenario: Login with incorrect username and corrcet password
-Given This is a invalid login test

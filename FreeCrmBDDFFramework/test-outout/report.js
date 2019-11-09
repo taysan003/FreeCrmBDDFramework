@@ -6,18 +6,6 @@ formatter.feature({
   "id": "test-tagged-hooks",
   "keyword": "Feature"
 });
-formatter.before({
-  "duration": 276543,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 109037,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 83358,
-  "status": "passed"
-});
 formatter.scenario({
   "line": 4,
   "name": "This is First test",
@@ -47,50 +35,17 @@ formatter.step({
   "name": "this is the third step",
   "keyword": "Then "
 });
-formatter.match({
-  "location": "TaggedHooksDefinition.this_is_the_first_step()"
-});
+formatter.match({});
 formatter.result({
-  "duration": 83389662,
-  "status": "passed"
+  "status": "undefined"
 });
-formatter.match({
-  "location": "TaggedHooksDefinition.this_is_the_second_step()"
-});
+formatter.match({});
 formatter.result({
-  "duration": 83358,
-  "status": "passed"
+  "status": "undefined"
 });
-formatter.match({
-  "location": "TaggedHooksDefinition.this_is_the_third_step()"
-});
+formatter.match({});
 formatter.result({
-  "duration": 88889,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 85728,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 80593,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 90074,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 181728,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 94024,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 89680,
-  "status": "passed"
+  "status": "undefined"
 });
 formatter.scenario({
   "line": 10,
@@ -121,50 +76,17 @@ formatter.step({
   "name": "this is the third step",
   "keyword": "Then "
 });
-formatter.match({
-  "location": "TaggedHooksDefinition.this_is_the_first_step()"
-});
+formatter.match({});
 formatter.result({
-  "duration": 62815,
-  "status": "passed"
+  "status": "undefined"
 });
-formatter.match({
-  "location": "TaggedHooksDefinition.this_is_the_second_step()"
-});
+formatter.match({});
 formatter.result({
-  "duration": 67950,
-  "status": "passed"
+  "status": "undefined"
 });
-formatter.match({
-  "location": "TaggedHooksDefinition.this_is_the_third_step()"
-});
+formatter.match({});
 formatter.result({
-  "duration": 123654,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 71507,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 69531,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 44247,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 142617,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 60839,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 54124,
-  "status": "passed"
+  "status": "undefined"
 });
 formatter.scenario({
   "line": 16,
@@ -195,37 +117,16 @@ formatter.step({
   "name": "this is the third step",
   "keyword": "Then "
 });
-formatter.match({
-  "location": "TaggedHooksDefinition.this_is_the_first_step()"
-});
+formatter.match({});
 formatter.result({
-  "duration": 52938,
-  "status": "passed"
+  "status": "undefined"
 });
-formatter.match({
-  "location": "TaggedHooksDefinition.this_is_the_second_step()"
-});
+formatter.match({});
 formatter.result({
-  "duration": 47407,
-  "status": "passed"
+  "status": "undefined"
 });
-formatter.match({
-  "location": "TaggedHooksDefinition.this_is_the_third_step()"
-});
+formatter.match({});
 formatter.result({
-  "duration": 62025,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 49778,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 52543,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 46617,
-  "status": "passed"
+  "status": "undefined"
 });
 });

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="FreeCrmBDDFFramework" tests="1" started="0" failures="0" errors="0" ignored="0">
-  <testsuite name="Runner.TestRunner" incomplete="true">
-    <testcase name="Feature: Free CRM application testing" classname="Feature: Free CRM application testing" incomplete="true"/>
-  </testsuite>
-</testrun>

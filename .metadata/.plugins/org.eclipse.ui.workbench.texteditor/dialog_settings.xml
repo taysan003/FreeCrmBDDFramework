@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="551" key="DIALOG_X_ORIGIN"/>
+		<item value="249" key="DIALOG_Y_ORIGIN"/>
+	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item value="  @Then(&quot;^user is on home page$&quot;)" key="selection"/>
+		<item value="false" key="isRegEx"/>
+		<item value="userna" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="wholeword"/>
 		<list key="findhistory">
 			<item value="  @Then(&quot;^user is on home page$&quot;)"/>
+		</list>
+		<list key="replacehistory">
 		</list>
 	</section>
 </section>
